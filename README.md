@@ -19,10 +19,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coconuttree0730&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ## 🌱 About Me
 - 🔭 Tech Stack: Java, Python
 - 🌱 Currently Learning: Java/Python Backend Development & AI Agent Technologies
