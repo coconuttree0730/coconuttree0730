@@ -22,7 +22,6 @@
 ## 🌱 About Me
 - 🔭 Tech Stack: Java, Python
 - 🌱 Currently Learning: Java/Python Backend Development & AI Agent Technologies
-- 💬 Feel free to reach out about: Java/SpringBoot, Vue, Flask/Python
 - 🐧 Linux Enthusiast
 
 ---
